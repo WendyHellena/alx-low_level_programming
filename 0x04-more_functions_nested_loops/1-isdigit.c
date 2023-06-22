@@ -7,5 +7,5 @@
 
 int _isdigit(int c)
 {
-	return (c >= 58 && c <= 67);
+	return (c >= 0 && c <= 9);
 }
