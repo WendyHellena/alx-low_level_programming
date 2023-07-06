@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * is_prime_number - function that returns 1 if a number is a prime number, 0 otherwise
+ * is_prime_number - func that returns 1 if a num is a prime num, 0 otherwise
  * @n: number for input
  * Return: 0
  */
